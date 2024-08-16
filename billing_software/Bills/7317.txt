@@ -1,0 +1,17 @@
+	 Welcome to Lucky Shopping Mini-Mall
+
+ Bill Number : 7317
+ Customer Name : Ankita
+ Phone Number : 9130455990
+ Email : ankita@gmail.com
+==================================================
+ Products:			 Qty:	 Price:
+==================================================
+
+Lee Cooper		2		12000
+
+==================================================
+ Sub Total-Amount : 			Rs.12000.00
+ Tax Amount : 			Rs.600.00
+ Total Amount : 			Rs.12600.00
+==================================================

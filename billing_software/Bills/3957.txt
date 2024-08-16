@@ -1,0 +1,19 @@
+	 Welcome to Lucky Shopping Mini-Mall
+
+ Bill Number : 3957
+ Customer Name : 
+ Phone Number : 
+ Email : 
+==================================================
+ Products:			 Qty:	 Price:
+==================================================
+
+Foundations		1		699
+Lipstics		1		450
+Tote		1		500
+
+==================================================
+ Sub Total-Amount : 			Rs.6649.00
+ Tax Amount : 			Rs.164.90
+ Total Amount : 			Rs.6813.90
+==================================================

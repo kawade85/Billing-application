@@ -1,0 +1,18 @@
+	 Welcome to Lucky Shopping Mini-Mall
+
+ Bill Number : 8349
+ Customer Name : sumit
+ Phone Number : 75895702
+ Email : sumit@gmail.com
+==================================================
+ Products:			 Qty:	 Price:
+==================================================
+
+Levi's		3		15000
+Short		1		300
+
+==================================================
+ Sub Total-Amount : 			Rs.15375.00
+ Tax Amount : 			Rs.1530.00
+ Total Amount : 			Rs.16905.00
+==================================================

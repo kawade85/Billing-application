@@ -1,0 +1,18 @@
+	 Welcome to Lucky Shopping Mini-Mall
+
+ Bill Number : 4357
+ Customer Name : 
+ Phone Number : 
+ Email : 
+==================================================
+ Products:			 Qty:	 Price:
+==================================================
+
+Adidas		7		21000
+Adidas		7		21000
+
+==================================================
+ Sub Total-Amount : 			Rs.42000.00
+ Tax Amount : 			Rs.3900.00
+ Total Amount : 			Rs.45900.00
+==================================================

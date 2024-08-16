@@ -1,0 +1,19 @@
+	 Welcome to Lucky Shopping Mini-Mall
+
+ Bill Number : 5888
+ Customer Name : sangita
+ Phone Number : 9890049590
+ Email : sangita@gmail.com
+==================================================
+ Products:			 Qty:	 Price:
+==================================================
+
+String		5		650
+Levi's		1		5000
+Polo		1		2000
+
+==================================================
+ Sub Total-Amount : 			Rs.10650.00
+ Tax Amount : 			Rs.765.00
+ Total Amount : 			Rs.11415.00
+==================================================

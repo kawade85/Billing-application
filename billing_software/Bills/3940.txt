@@ -1,0 +1,18 @@
+	 Welcome to Lucky Shopping Mini-Mall
+
+ Bill Number : 3940
+ Customer Name : sumit
+ Phone Number : 9890049590
+ Email : sumit@gmail.com
+==================================================
+ Products:			 Qty:	 Price:
+==================================================
+
+Foundations		1		699
+Bella Vita		1		565
+
+==================================================
+ Sub Total-Amount : 			Rs.9264.00
+ Tax Amount : 			Rs.126.40
+ Total Amount : 			Rs.9390.40
+==================================================

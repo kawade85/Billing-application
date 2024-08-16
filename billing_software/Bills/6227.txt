@@ -1,0 +1,18 @@
+	 Welcome to Lucky Shopping Mini-Mall
+
+ Bill Number : 6227
+ Customer Name : 
+ Phone Number : 
+ Email : 
+==================================================
+ Products:			 Qty:	 Price:
+==================================================
+
+Doritos		1		30
+Lays		1		30
+
+==================================================
+ Sub Total-Amount : 			Rs.135.00
+ Tax Amount : 			Rs.6.00
+ Total Amount : 			Rs.141.00
+==================================================

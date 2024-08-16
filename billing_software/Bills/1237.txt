@@ -1,0 +1,17 @@
+	 Welcome to Lucky Shopping Mini-Mall
+
+ Bill Number : 1237
+ Customer Name : 
+ Phone Number : 
+ Email : 
+==================================================
+ Products:			 Qty:	 Price:
+==================================================
+
+Lee Cooper		2		12000
+
+==================================================
+ Sub Total-Amount : 			Rs.12000.00
+ Tax Amount : 			Rs.600.00
+ Total Amount : 			Rs.12600.00
+==================================================

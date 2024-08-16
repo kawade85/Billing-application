@@ -1,0 +1,19 @@
+	 Welcome to Lucky Shopping Mini-Mall
+
+ Bill Number : 2375
+ Customer Name : Mayuri
+ Phone Number : 9130755491
+ Email : mnk@gmail.com
+==================================================
+ Products:			 Qty:	 Price:
+==================================================
+
+Tote		1		500
+mini		1		250
+
+
+==================================================
+ Sub Total-Amount : 			Rs.1950.00
+ Tax Amount : 			Rs.135.00
+ Total Amount : 			Rs.2085.00
+==================================================
